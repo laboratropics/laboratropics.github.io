@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /contact/
-title: Laboratropics | Contact
+title: Contact Info
 ---
 
 # How to get in contact with us
