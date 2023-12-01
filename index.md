@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Laboratropics
 ---
 # Welcome to our Tropical Research Laboratory
 
