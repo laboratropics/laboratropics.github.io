@@ -14,4 +14,4 @@ title: Laboratropics
 
 Explore the endeavours and research we work on through this website or feel free to get in contact with us.
 
-![bg](/img/laboratropics_visual2024.png)
+![bg](/assets/img/laboratropics_visual2024.png)
