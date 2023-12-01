@@ -29,11 +29,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - _pages/about.md
-  - _pages/research.md
-  - _pages/products.md
-  - _pages/archive.md
-  - _pages/contact.md
+  - "_pages"
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
