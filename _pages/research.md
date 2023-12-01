@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /research/
-title: Laboratropics | Research
+title: Our Research
 ---
 # Research Projects at Laboratropics
 
