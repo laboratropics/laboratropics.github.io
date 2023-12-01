@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Welcome to our Tropical Research Laboratory
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Nestled in the lush oasis city of Cairns, between the edge the pacific ocean and the feet of the Daintree and Atherton Tablelands, lies our lab space conducting research on advancing tropical health and life.**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Explore the endeavours and research we work on through this website or feel free to get in contact with us.
 
-
-[jekyll-organization]: https://github.com/jekyll
+![bg](/img/laboratropics_visual2024.png)
