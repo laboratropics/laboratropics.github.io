@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /products/
-title: Laboratropics | Products
+title: Products
 ---
 
 # Products by Laboratropics
