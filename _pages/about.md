@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /about/
-title: Laboratropics | About
+title: About
 ---
 
 # Who Are We?
