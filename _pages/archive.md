@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /archive/
-title: Laboratropics | Media Archive
+title: Media Archive
 ---
 
 # Archive of media produced by our research
