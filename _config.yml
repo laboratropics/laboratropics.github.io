@@ -6,9 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Laboratropics is a Cairns based laboratory focusing on tropical life sciences. Through the questioning of Nature's answers and streaming our research into the creation of scientific pathways we strive to build future proof solutions which encourage healthier conditions to all of life's unique creations. Our expertise cover organic chemistry and molecular biology with reference to tropical agriculture.
 
 # Build settings
 
@@ -25,6 +23,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+#Include folders into pathways
+include:
+- "_pages"
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -36,8 +38,7 @@ header_pages:
   - _pages/archive.md
   - _pages/contact.md
 
-include:
-- "_pages"
+
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -60,14 +61,14 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  #social_links:
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  - { platform: github,         user_url: "https://github.com/jekyll/laboratropics/" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  - { platform: instagram,      user_url: "https://www.instagram.com/laboratropics/" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
