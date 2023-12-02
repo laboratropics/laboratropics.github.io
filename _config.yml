@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Laboratropics is a Cairns based laboratory focusing on tropical life sciences. Through the questioning of Nature's answers and streaming our research into the creation of scientific pathways we strive to build future proof solutions which encourage healthier conditions to all of life's unique creations. Our expertise cover organic chemistry and molecular biology with reference to tropical agriculture.
+  Laboratropics is a Cairns based laboratory focusing on tropical life sciences. Our expertise cover organic chemistry and molecular biology with reference to tropical agriculture.
 
 # Build settings
 
@@ -62,13 +62,14 @@ minima:
 
   # Generate social links in footer.
   social_links:
+  - { platform: github,         user_url: "https://github.com/laboratropics/" }
+  - { platform: instagram,      user_url: "https://www.instagram.com/laboratropics/" }
+  
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  - { platform: github,         user_url: "https://github.com/jekyll/laboratropics/" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  - { platform: instagram,      user_url: "https://www.instagram.com/laboratropics/" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
