@@ -6,8 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Laboratropics is a Cairns based laboratory focusing on tropical life sciences. Our interests cover medicinal chemistry and molecular biology with reference to tropical society.
-  **ABN: 23 212 470 029**
+  Laboratropics is a Cairns based laboratory since 2022. Our interests cover medicinal chemistry and molecular biology with reference to tropical focused life science.
+  | ABN: 23 212 470 029
 
 # Build settings
 
@@ -21,7 +21,7 @@ remote_theme: jekyll/minima
 #remote_theme: jekyll/minima
 
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 
 #Include folders into pathways
