@@ -36,7 +36,7 @@ header_pages:
   - _pages/about.md
   - _pages/research.md
   #- _pages/products.md
-  - _pages/archive.md
+  #- _pages/archive.md
   - _pages/contact.md
 
 
