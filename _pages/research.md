@@ -5,11 +5,13 @@ title: Our Research
 ---
 # Research Projects at Laboratropics
 
-**We investigate tools that allow us to move into the future with nature symbiotically**
+## A tool for demographic visualisation of mental health in accordance to current events and changes in proximity to residence ##
 
-## Arbuscular Mycorrhizal Fungi
-We are currently focusing on the needs of agriculture for better soils by utilisng the already existig arbuscular mycorrhiza (AM) of the Far North Queensland region. Promising results have come from other projects and research using the AMs from the Yellow Stone National Park in Wyoming, USA but we intend to show that these marvellous soil cultures are equally abundant in local soils such that there is no risk of introducing harmful organisms to our already at-risk biodiversity.
+*Feb 2024:* Our current research is into visualisation tools written in [R language](https://www.r-project.org/). For a positive outcome of this project it will need to be done in collaboration with clinical and health professionals as well as under the guidance of health authorites, all which can consider themselves shareholders of the success this tool could provide to the stakeholders of the project: the sufferers of mental illness that want their concerns heard.
 
-## Alternative Herbicides
-Our efforts to create an alternate herbicide intended to be used safely around pets and children, making for a secondary fertisiler is currently undergoing development and testing. The final goal is for our product *SulfaMate* to be included in local shops for convenient use in home gardens and further commercialisation to allow for safer large-scale weed prevention. Results are currently very promising, both speed and effeciency superceed normally used products and add the secondary effect of working as a fertiliser over months following initial application of the herbicide.
+This visualisation tool  could allow demographics of mental health patients and suffers to be recorded anonymously and then to enable the analysis of such data to be aligned to for example: socio-political trends, climate change or urban expansion efforts. Which would then help visualise how these trends impact the health and stability of the individuals and communities directly affected by the events.
+
+Long term cause-effect correlations are able to be determined between people and events out of their control. These events include urbanisation which can often lead to incremental changes in psychology depending on the degree of expansion, both severly and constructively. Thus this tools could allow for better insight into either local markets and regions for industries to be informed of the risk or rewards as well as the ability to build awareness around certain trends that play into the mental health of sufferers and also display the definitive and long term impacts they have. This should also be able to help academic research and studies into the correlation and causes of mental health illnessess.
+
+We are currently in the early design stage of this project but welcome any and all from the wider community or those who would like to offer up their thoughts to us on this matter. Obviously, we are open to working with shareholders or partners and also appreciate any contributions or funding towards the project. This tool could be the difference some communities need so please consider helping us make this real. To get in contact with us, please get in contact with us through our [Contact Info](https://laboratropics.com.au/contact/) page.
 
