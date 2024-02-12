@@ -10,7 +10,7 @@ title: Laboratropics
 ---
 # Welcome to our Tropical Research Laboratory
 
-**Nestled in the lush oasis city of Cairns, between the edge the pacific ocean and the feet of the Daintree and Atherton Tablelands, lies our lab space conducting research on advancing tropical health and life.**
+**Nestled in the lush oasis city of Cairns, between the edge the pacific ocean and the feet of the Daintree and Atherton Tablelands, lies our lab space conducting research on advancing tropical health and life with a focus on digital solutions that have use in medicine.** See [Our Research](https://laboratropics.com.au/research/) page for more.
 
 Explore the endeavours and research we work on through this website or feel free to get in contact with us.
 
