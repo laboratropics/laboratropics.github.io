@@ -15,3 +15,7 @@ Long term cause-effect correlations are able to be determined between people and
 
 We are currently in the early design stage of this project but welcome any and all from the wider community or those who would like to offer up their thoughts to us on this matter. Obviously, we are open to working with shareholders or partners and also appreciate any contributions or funding towards the project. This tool could be the difference some communities need so please consider helping us make this real. To get in contact with us, please get in contact with us through our [Contact Info](https://laboratropics.com.au/contact/) page.
 
+![balanced mind](/assets/img/riccardo-ginevri-small.jpg)
+
+*Credit:* photo by <a href="https://unsplash.com/@doctorgyprons?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Riccardo Ginevri</a> on <a href="https://unsplash.com/photos/brown-and-gray-stones-on-white-surface-hUjSO5dZA_E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
